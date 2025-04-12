@@ -1,7 +1,6 @@
 # 🚀 Real-Time Text-to-Speech (TTS) - Ultra Fast & Lightweight
 
 This project features a highly optimized real-time Text-to-Speech model designed for low-latency applications. Based on a modified architecture inspired by a research paper, this implementation significantly improves both inference speed and efficiency.
-
 ## 🌟 Highlights
 
 - ⚙️ **2× faster** than the original implementation from the referenced paper.
@@ -17,3 +16,7 @@ This project features a highly optimized real-time Text-to-Speech model designed
 | This Model | **0.055**   | 1.0× (Baseline) |
 | XTTS       | ~0.55       | 10× slower     |
 | F5 TTS     | ~3.3        | 60× slower     |
+
+## Demo
+https://github.com/user-attachments/assets/55948054-0a53-4436-97c7-84fd741cedf1
+
