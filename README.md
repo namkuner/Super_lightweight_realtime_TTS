@@ -18,5 +18,6 @@ This project features a highly optimized real-time Text-to-Speech model designed
 | F5 TTS     | ~3.3        | 60× slower     |
 
 ## Demo
-https://github.com/user-attachments/assets/55948054-0a53-4436-97c7-84fd741cedf1
+
+https://github.com/user-attachments/assets/422d0df7-8eb5-4333-88cd-b6a0564e19b6
 
