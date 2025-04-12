@@ -25,10 +25,7 @@ Dự án này giới thiệu một mô hình TTS tối ưu hóa cho hiệu suấ
 https://github.com/user-attachments/assets/422d0df7-8eb5-4333-88cd-b6a0564e19b6
 
 ## 🌐 Các ứng dụng của Real-Time TTS
-- **Hỗ trợ người khiếm thính và khiếm thị**: TTS có thể chuyển đổi văn bản thành giọng nói, giúp người khiếm thính hoặc khiếm thị tiếp cận thông tin một cách dễ dàng hơn.
 - **Trợ lý ảo**: Các hệ thống như Siri, Google Assistant, Alexa đều sử dụng TTS để cung cấp phản hồi âm thanh trực tiếp cho người dùng.
-- **Hệ thống xe tự lái**: Trong các phương tiện tự lái, TTS được dùng để cung cấp thông tin và cảnh báo cho người lái xe.
-- **Ứng dụng học ngôn ngữ**: TTS giúp người học ngôn ngữ phát âm chính xác từ mới và cải thiện kỹ năng nghe.
-- **Truyền thông và giải trí**: TTS được sử dụng trong các trò chơi, sách nói (audiobooks), và các ứng dụng truyền thông khác để chuyển văn bản thành lời nói.
+- **Ứng dụng học ngôn ngữ**: TTS giúp người học ngôn ngữ phát âm chính xác từ mới và cải thiện kỹ năng nghe và thời gian thực
 - **Hỗ trợ giao tiếp trong các thiết bị thông minh**: Các thiết bị IoT (Internet of Things) như smart speakers sử dụng TTS để giao tiếp với người dùng.
 - **Chatbot Marketing và Chăm sóc khách hàng**: TTS được tích hợp trong các chatbot để cung cấp phản hồi âm thanh tự động trong các ứng dụng chăm sóc khách hàng, hỗ trợ bán hàng và tiếp thị.
