@@ -10,7 +10,7 @@ Dự án này giới thiệu một mô hình TTS tối ưu hóa cho hiệu suấ
 - 🧠 Cải tiến cấu trúc mô hình và quy trình suy luận để tối ưu hiệu suất.
 - 🧩 Thiết kế cho các ứng dụng cần tạo âm thanh theo thời gian thực.
 - 🔥 Mô hình **80M tham số** rất nhỏ gọn, có thể chạy trên các thiết bị tài nguyên hạn chế.
-- 🎤 Có thể sao chép giọng tham chiếu, tạo ra âm thanh gần giống như giọng nói thật.
+- 🎤 Có thể sao chép giọng tham chiếu, tạo ra âm thanh gần giống như giọng nói thật (càng nhiều dữ liệu thì càng giống âm thanh gốc).
 
 ## 📊 Kết quả kiểm thử
 
