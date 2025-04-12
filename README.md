@@ -1,6 +1,6 @@
 # 🚀 Hệ thống Text-to-Speech (TTS) Thời gian thực - Siêu nhanh & Tiết kiệm tài nguyên
 
-Dự án này giới thiệu một mô hình TTS tối ưu hóa cho hiệu suất và khả năng hoạt động trong thời gian thực. Dựa trên một kiến trúc mô hình đã được công bố, chúng tôi đã thực hiện các cải tiến để tăng tốc quá trình suy luận và giảm độ trễ.
+Dự án này giới thiệu một mô hình TTS tối ưu hóa cho hiệu suất và khả năng hoạt động trong thời gian thực. Dựa trên một kiến trúc mô hình đã được công bố, mình đã thực hiện các cải tiến (thay đổi mô hình và cách inference) để tăng tốc quá trình suy luận và giảm độ trễ.
 
 ## 🌟 Các tính năng nổi bật
 
@@ -9,14 +9,16 @@ Dự án này giới thiệu một mô hình TTS tối ưu hóa cho hiệu suấ
 - 🚀 Đạt được **Real-Time Factor (RTF) ~0.055** trên **NVIDIA T4 GPU**.
 - 🧠 Cải tiến cấu trúc mô hình và quy trình suy luận để tối ưu hiệu suất.
 - 🧩 Thiết kế cho các ứng dụng cần tạo âm thanh theo thời gian thực.
+- 🔥 Mô hình **80M tham số** rất nhỏ gọn, có thể chạy trên các thiết bị tài nguyên hạn chế.
+- 🎤 Có thể sao chép giọng tham chiếu, tạo ra âm thanh gần giống như giọng nói thật.
 
 ## 📊 Kết quả kiểm thử
 
-| Mô hình    | RTF (↓)     | Tốc độ tương đối |
-|------------|-------------|------------------|
-| Mô hình này | **0.055**   | 1.0× (Cơ sở)     |
-| XTTS       | ~0.55       | 10× chậm hơn     |
-| F5 TTS     | ~3.3        | 60× chậm hơn     |
+| Mô hình    | RTF (↓)     | Tốc độ tương đối | Model Size (↓) | Dữ liệu huấn luyện (↓) |
+|------------|-------------|------------------|-----------------|------------------------|
+| Mô hình này | **0.055**   | 1.0× (Cơ sở)     | **80M**         | **6h** âm thanh         |
+| XTTS       | ~0.58       | 10× chậm hơn     | **343M**        | **1000h** âm thanh    |
+| F5 TTS     | ~3.3        | 60× chậm hơn     | **336M**        |     |
 
 > *RTF: Real-Time Factor (số nhỏ hơn là tốt hơn)*
 
